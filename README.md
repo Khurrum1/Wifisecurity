@@ -8,4 +8,4 @@ Address2 in the WLAN header is the transmitter address. A unique set of transmit
 Filters based on beacon frames and iterates through the DotElt list (tag parameters) to find the SSIDs
 
 **uncoverssid.py**
-Uncovers hidden SSIDs by monitoring probe responses from the same access point and probe responses contain the SSID, which will be uncovered
+Uncovers hidden SSIDs by monitoring probe responses from the same access point, these probe responses contain the SSID, which will be uncovered

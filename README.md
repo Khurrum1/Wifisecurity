@@ -2,7 +2,7 @@
 
 **alldevices.py**
 A script that helps discover all Wi-Fi devices in the air
-Address2 in the WLAN header in the transmitter address. A unique set of transmitter addresses is created in order to get a unique set of wifi devices. 
+Address2 in the WLAN header is the transmitter address. A unique set of transmitter addresses is created in order to get a unique set of wifi devices. 
 
 **SSIDfinder.py**
 Filters based on beacon frames and iterates through the DotElt list (tag parameters) to find the SSIDs

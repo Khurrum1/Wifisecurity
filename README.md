@@ -11,4 +11,4 @@ Filters based on beacon frames and iterates through the DotElt list (tag paramet
 Uncovers hidden SSIDs by monitoring probe responses from the same access point, these probe responses contain the SSID, which will be uncovered.
 
 **deauth.py** 
-A broadcast deauthentication attack tool which disconnects a client access point (access point) pair. The access point will send packets to all connected clients.
+A broadcast deauthentication attack tool which disconnects a client AP (access point) pair. The access point will send packets to all connected clients.
